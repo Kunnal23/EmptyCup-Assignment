@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 	try {
 		
 		const response = await fetch(
-			"https://emptycup-backend-i3j9.onrender.com/api/listings"
+			"https://emptycup-backend-p7k1.onrender.com/api/listings"
 		);
 		const listings = await response.json();
 

@@ -40,12 +40,12 @@ listings = [
         
     },
     {
-        "id": 3,
-        "name": "House of Designs",
+        "id": 4,
+        "name": "DecoDistrict",
         "para": "Passionate team of 4 designers working out of Bangalore with an experience of 4 years.",
         "logo": "assets/Group 1.svg",
-        "projects": 90,
-        "years": 10,
+        "projects": 70,
+        "years": 11,
         "price": "$$$$",
         "phone1": "+91 - 984532853",
         "phone2": "+91 - 984532854",
