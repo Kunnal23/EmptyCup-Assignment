@@ -91,7 +91,13 @@ EmptyCup-Assignment/
     - backend: Python Flask app
     - frontend: Static site served by Nginx
 
+
+## Screenshots
+
+![Homepage](frontend\assets\Landing Page.png)
+
 ## ✒️ Author
+
 **Kunnal Kant Lal-** 
 [kantkunnal2311@gmail.com](mailto:kantkunnal2311@gmail.com)
 
