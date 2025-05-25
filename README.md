@@ -94,7 +94,7 @@ EmptyCup-Assignment/
 
 ## Screenshots
 
-![Homepage](frontend\assets\Landing Page.png)
+![Image](https://github.com/user-attachments/assets/58fb4b45-900e-4733-a5ce-06c19531ddab)
 
 ## ✒️ Author
 
