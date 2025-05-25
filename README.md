@@ -64,16 +64,15 @@ EmptyCup-Assignment/
 
 2. **Start everything with Docker**
 
-```
-docker-compose up --build
-```
+    ```
+    docker-compose up --build
+    ```
 
 3. **Visit in your browser:**
 
+    Frontend: http://localhost:3000
 
-Frontend: http://localhost:3000
-
-Backend API: http://localhost:5000
+    Backend API: http://localhost:5000
 
 ### 📦 Backend Details (Flask)
 - `app.py` : main Flask application
@@ -89,8 +88,8 @@ Backend API: http://localhost:5000
 
 ### 🐳 Docker Info
 - Docker Compose handles two services:
-- backend: Python Flask app
-- frontend: Static site served by Nginx
+    - backend: Python Flask app
+    - frontend: Static site served by Nginx
 
 ## ✒️ Author
 **Kunnal Kant Lal-** 
