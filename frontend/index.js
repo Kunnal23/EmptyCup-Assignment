@@ -5,9 +5,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 	try {
 		
-		const response = await fetch(
-			"https://emptycup-backend-p7k1.onrender.com/api/listings"
-		);
+		const response = await fetch("http://localhost:5000/api/listings");
 		const listings = await response.json();
 
 		listings.forEach((listing, index) => {
